@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sachin Yadav</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently working on [AMS](https://github.com/ysachin438/College/tree/a905f15cd49776dc11167c1f56b6b4a13de01b83/AMS2)
+- 🔭 I’m currently working on [AMS](https://github.com/ysachin438/CBAMS_2025_Final_Year_aws/)
 
-- 🌱 I’m currently learning **React and API's**
+- 🌱 I’m currently learning **NEXT.js and AGI**
 
 - 👨‍💻 All of my projects are available at [https:/linkedin.com/in/ysachin438](https:/linkedin.com/in/ysachin438)
 
-- 💬 Ask me about **C/C++, Python, Java, Javascript, HTML, CSS, MySQL, php**
+- 💬 Ask me about **C/C++, Python, Java, Javascript, SQL, php, AWS(EC2, RDS, EBS, S3, CloudFront, IAM), Node.js**
 
 - 📫  Reach me through:  **ysachin0438@gmail.com**
 
