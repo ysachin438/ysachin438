@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sachin Yadav</h1>
+<h1 align="center">Hi 👋, I'm Sachin</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
 - 🔭 I’m currently working on [AMS](https://github.com/ysachin438/CBAMS_2025_Final_Year_aws/)
