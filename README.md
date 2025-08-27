@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sachin</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently working on [AMS](https://github.com/ysachin438/CBAMS_2025_Final_Year_aws/)
+- 🔭 I’m currently working on [AMS](https://github.com/ysachin438/cbams_final_year_aws/)
 
 - 🌱 I’m currently learning **NEXT.js and AGI**
 
 - 👨‍💻 All of my projects are available at [https:/linkedin.com/in/ysachin438](https:/linkedin.com/in/ysachin438)
 
-- 💬 Ask me about **C/C++, Python, Java, Javascript, SQL, php, AWS(EC2, RDS, EBS, S3, CloudFront, IAM), Node.js**
+- 💬 Ask me about **C/C++, Python, Node.js, Javascript, SQL, PHP, AWS(EC2, RDS, EBS, S3, CloudFront, IAM)**
 
 - 📫  Reach me through:  **ysachin0438@gmail.com**
 
